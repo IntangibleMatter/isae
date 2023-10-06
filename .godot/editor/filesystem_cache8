@@ -1,0 +1,11 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1696530780
+icon.svg::CompressedTexture2D::201862994775401782::1696437071::1696437352::1::::<><>::
+new_audio_stream_polyphonic.tres::AudioStreamPolyphonic::6889081551741794096::1696440993::0::1::::<><>::
+::res://addons/::1696437119
+::res://addons/isae/::1696437440
+isaeplugin.gd::GDScript::-1::1696437173::0::1::::<>EditorPlugin<>::
+plugin.cfg::TextFile::-1::1696437119::0::1::::<><>::
+::res://addons/isae/classes/::1696441311
+AudioPlayerComponentIsae.gd::GDScript::-1::1696441311::0::1::::AudioPlayerComponentIsae<>Node<>::
+audiostreamisae.gd::GDScript::-1::1696440993::0::1::::AudioStreamIsae<>AudioStream<>::
