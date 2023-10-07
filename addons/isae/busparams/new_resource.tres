@@ -1,0 +1,12 @@
+[gd_resource type="Resource" script_class="BusParam" load_steps=2 format=3 uid="uid://cka0rr52g426t"]
+
+[ext_resource type="Script" path="res://addons/isae/classes/bus_param.gd" id="1_3ns22"]
+
+[resource]
+script = ExtResource("1_3ns22")
+bus_relations = Array[Resource]([])
+title = ""
+value = 0.0
+min_value = 0.0
+max_value = 1.0
+seek_speed = 0.0

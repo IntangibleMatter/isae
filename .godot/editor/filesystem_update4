@@ -1,1 +1,4 @@
-res://addons/isae/classes/audiostreamisae.gd
+res://addons/isae/isaeplugin.gd
+res://addons/isae/classes/bus_param.gd
+res://addons/isae/busparams/demoparam.tres
+res://addons/isae/isae_manager.gd

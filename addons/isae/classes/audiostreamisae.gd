@@ -1,8 +1,9 @@
 class_name AudioStreamIsae
+extends Resource
 
 @export var streams : Array[Track]
 
-@export var params : Array[Parameter]
+@export var params : Array[IsaeParameter]
 var param_names : Dictionary
 
 func _ready() -> void:
@@ -22,12 +23,4 @@ class Track:
 	@export var stream : AudioStream
 	@export var synced : bool = false
 	
-
-class Parameter:
-	extends Resource
-	@export var title: String
-	@export var value: float
-	@export var min_value : float = 0
-	@export var max_value : float = 1
-	@export var seek_speed : float = 0
 
